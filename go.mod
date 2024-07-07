@@ -7,3 +7,5 @@ require (
 	github.com/klauspost/compress v1.17.9
 	github.com/mattn/go-sqlite3 v1.14.22
 )
+
+require github.com/pg9182/ip2x v1.1.0
